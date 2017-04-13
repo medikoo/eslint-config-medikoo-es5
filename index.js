@@ -9,6 +9,7 @@ module.exports = {
 		"no-template-curly-in-string": "off",
 		"prefer-arrow-callback": "off",
 		"prefer-destructuring": "off",
+		"prefer-rest-params": "off",
 		"prefer-template": "off"
 	})
 };
