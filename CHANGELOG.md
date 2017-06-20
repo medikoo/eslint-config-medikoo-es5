@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.4.1"></a>
+## [1.4.1](https://github.com/medikoo/eslint-config-medikoo-es5/compare/v1.4.0...v1.4.1) (2017-06-20)
+
+
+### Bug Fixes
+
+* turn off prefer-spread rule ([fef60e9](https://github.com/medikoo/eslint-config-medikoo-es5/commit/fef60e9))
+
+
+
 <a name="1.4.0"></a>
 # [1.4.0](https://github.com/medikoo/eslint-config-medikoo-es5/compare/v1.3.1...v1.4.0) (2017-06-01)
 
