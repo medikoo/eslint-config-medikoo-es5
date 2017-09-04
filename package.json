@@ -1,22 +1,19 @@
 {
-  "name": "eslint-config-medikoo-es5",
-  "version": "1.4.1",
-  "description": "ESLint config for medikoo's ES5 projects",
-  "author": "Mariusz Nowak <medyk@medikoo.com> (http://www.medikoo.com/)",
-  "keywords": [
-    "eslint-config",
-    "eslint"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/medikoo/eslint-config-medikoo-es5.git"
-  },
-  "dependencies": {
-    "es5-ext": "^0.10.15",
-    "eslint-config-medikoo": "1"
-  },
-  "peerDependencies": {
-    "eslint": ">=0.8.0"
-  },
-  "license": "MIT"
+	"name": "eslint-config-medikoo-es5",
+	"version": "1.4.1",
+	"description": "ESLint config for medikoo's ES5 projects",
+	"author": "Mariusz Nowak <medyk@medikoo.com> (http://www.medikoo.com/)",
+	"keywords": ["eslint-config", "eslint"],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/medikoo/eslint-config-medikoo-es5.git"
+	},
+	"dependencies": {
+		"es5-ext": "^0.10.15",
+		"eslint-config-medikoo": "1"
+	},
+	"peerDependencies": {
+		"eslint": ">=0.8.0"
+	},
+	"license": "MIT"
 }
