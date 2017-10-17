@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.4.4"></a>
+## [1.4.4](https://github.com/medikoo/eslint-config-medikoo-es5/compare/v1.4.3...v1.4.4) (2017-10-17)
+
+
+
 <a name="1.4.3"></a>
 ## [1.4.3](https://github.com/medikoo/eslint-config-medikoo-es5/compare/v1.4.2...v1.4.3) (2017-09-06)
 
