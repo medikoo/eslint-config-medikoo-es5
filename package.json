@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-medikoo-es5",
-  "version": "1.4.5",
+  "version": "1.4.6",
   "description": "ESLint config for medikoo's ES5 projects",
   "author": "Mariusz Nowak <medyk@medikoo.com> (http://www.medikoo.com/)",
   "keywords": [
