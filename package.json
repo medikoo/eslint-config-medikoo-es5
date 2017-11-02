@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "es5-ext": "^0.10.35",
-    "eslint-config-medikoo": "^1.28"
+    "eslint-config-medikoo": "^1.29"
   },
   "peerDependencies": {
     "eslint": ">=0.8.0"
