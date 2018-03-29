@@ -9,8 +9,8 @@
     "url": "git://github.com/medikoo/eslint-config-medikoo-es5.git"
   },
   "dependencies": {
-    "es5-ext": "^0.10.41",
-    "eslint-config-medikoo": "^1.32"
+    "es5-ext": "^0.10.42",
+    "eslint-config-medikoo": "^1.33"
   },
   "peerDependencies": {
     "eslint": ">=0.8.0"
