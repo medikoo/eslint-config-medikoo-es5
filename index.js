@@ -1,11 +1,11 @@
 "use strict";
 
-var assign = require("es5-ext/object/assign");
-
 module.exports = {
-	extends: "eslint:all",
-	env: { commonjs: true },
-	rules: assign({}, require("eslint-config-medikoo").rules, {
+	extends: "medikoo",
+	parserOptions: {
+		ecmaVersion: 5
+	},
+	rules: {
 		"no-template-curly-in-string": "off",
 		"no-var": "off",
 		"object-shorthand": "off",
@@ -15,5 +15,5 @@ module.exports = {
 		"prefer-spread": "off",
 		"prefer-template": "off",
 		"spaced-comment": ["error", "always", { markers: [","] }]
-	})
+	}
 };
