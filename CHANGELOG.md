@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.5.0"></a>
+# [1.5.0](https://github.com/medikoo/eslint-config-medikoo-es5/compare/v1.4.11...v1.5.0) (2018-08-03)
+
+
+### Features
+
+* improve extended configuration ([6aa1382](https://github.com/medikoo/eslint-config-medikoo-es5/commit/6aa1382))
+
+
+
 <a name="1.4.11"></a>
 ## [1.4.11](https://github.com/medikoo/eslint-config-medikoo-es5/compare/v1.4.10...v1.4.11) (2018-05-29)
 
