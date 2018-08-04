@@ -12,10 +12,21 @@
     "url": "git://github.com/medikoo/eslint-config-medikoo-es5.git"
   },
   "dependencies": {
-    "eslint-config-medikoo": "^1.37"
+    "eslint-config-medikoo": "^1.38"
   },
   "peerDependencies": {
     "eslint": ">=0.8.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.2",
+    "eslint-config-medikoo": "^1.38"
+  },
+  "eslintConfig": {
+    "extends": "medikoo",
+    "root": true
+  },
+  "scripts": {
+    "lint": "eslint --ignore-path=.gitignore ."
   },
   "license": "ISC"
 }
