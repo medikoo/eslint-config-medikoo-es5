@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.6.0"></a>
+# [1.6.0](https://github.com/medikoo/eslint-config-medikoo-es5/compare/v1.5.1...v1.6.0) (2018-08-04)
+
+
+### Features
+
+* turn off require-unicode-regexp rule ([dca3a2d](https://github.com/medikoo/eslint-config-medikoo-es5/commit/dca3a2d))
+
+
+
 <a name="1.5.1"></a>
 ## [1.5.1](https://github.com/medikoo/eslint-config-medikoo-es5/compare/v1.5.0...v1.5.1) (2018-08-04)
 
