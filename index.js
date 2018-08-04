@@ -2,6 +2,8 @@
 
 module.exports = {
 	extends: "medikoo",
+	// Allow to override ES6 globals as e.g. var WeakMap = require('es6-weak-map')
+	env: { es6: false },
 	parserOptions: { ecmaVersion: 5 },
 	rules: {
 		"no-template-curly-in-string": "off",
