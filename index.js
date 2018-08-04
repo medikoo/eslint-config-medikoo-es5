@@ -14,6 +14,7 @@ module.exports = {
 		"prefer-rest-params": "off",
 		"prefer-spread": "off",
 		"prefer-template": "off",
+		"require-unicode-regexp": "off",
 		"spaced-comment": ["error", "always", { markers: [","] }]
 	}
 };
