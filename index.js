@@ -2,9 +2,7 @@
 
 module.exports = {
 	extends: "medikoo",
-	parserOptions: {
-		ecmaVersion: 5
-	},
+	parserOptions: { ecmaVersion: 5 },
 	rules: {
 		"no-template-curly-in-string": "off",
 		"no-var": "off",
