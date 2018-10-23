@@ -18,8 +18,7 @@
     "eslint": ">=0.8.0"
   },
   "devDependencies": {
-    "eslint": "^5.6.1",
-    "eslint-config-medikoo": "^1.43"
+    "eslint": "^5.6.1"
   },
   "eslintConfig": {
     "extends": "medikoo",
